@@ -1,5 +1,5 @@
 #!/bin/sh
-echo 'msg="Hello World!"' > hello
-echo 'echo $msg' >> hello
-chmod 700 hello
-./hello
+echo 'msg="Hello World!"' > goodBye 
+echo 'echo $msg' >> goodBye
+chmod 700 goodBye
+./goodBye
